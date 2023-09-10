@@ -1,2 +1,2 @@
 # Applied-ML
-Machine Learning using Python
+Applied machine learning using Python
