@@ -1,2 +1,2 @@
 # Applied-ML
-Applied machine learning using Python
+Course materials from a graduate-level applied machine learning class, covering topics such as tree-based algorithms, regression techniques, k-nearest neighbors (KNN), neural networks, and related methods.
